@@ -16,7 +16,7 @@ from diffusers import StableDiffusionPipeline, DPMSolverMultistepScheduler, PNDM
 from huggingface_hub import login
 
 # Authenticate (paste your token in the prompt)
-token = input("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")
+token = input("")
 login(token, add_to_git_credential=False)
 
 #  3: Load & tweak pipeline
