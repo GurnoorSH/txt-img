@@ -1,4 +1,4 @@
-# 🌄 Stable Diffusion Prompt Walkthrough
+# 🌄 Stable Diffusion Txt-Img
 
 This repository demonstrates how to generate high-quality images using [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5) via the 🤗 `diffusers` library. Implemented in Google Colab, this walkthrough covers installation, pipeline setup, and prompt-based image generation with various configurations.
 
